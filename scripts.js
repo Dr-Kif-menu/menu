@@ -131,17 +131,17 @@ function showMenu(category) {
 	['sh.lotus.jpg', 'لوتس', 'Lotas Milk Shake', [['S', 55], ['M', '-']]],
 ];
     const rowIceDrinks = [
-        ['sunshine.jpg', 'ايس كوفى', 'Ice Coffe', [['S', 40], ['M', '-']]],
-	['sunshine.jpg', 'ايس امريكان', 'Ice American', [['S', 40], ['M', '-']]],
-	['sunshine.jpg', 'ايس شوكليت', 'Ice Choclate', [['S', 40], ['M', '-']]],
-	['sunshine.jpg', 'ايس لاتيه', 'Ice Latte', [['S', 40], ['M', '-']]],
-	['sunshine.jpg', 'ايس كابتشينو', 'Ice Cappuccino', [['S', 55], ['M', '-']]],
-	['sunshine.jpg', 'ايس موكا', 'Ice Mocha', [['S', 55], ['M', '-']]],
-	['sunshine.jpg', 'ايس كوفى توفى', 'Ice Coffe Tofy', [['S', 60], ['M', '-']]],
-	['sunshine.jpg', 'اسبرسو بريو', 'Espresso Borio', [['S', 50], ['M', '-']]],
-	['sunshine.jpg', 'فرابتشينو', 'Frappuccino', [['S', 50], ['M', '-']]],
-	['sunshine.jpg', 'فرابتشينو كراميل', 'Frappuccino Caramel', [['S', 60], ['M', '-']]],
-	['sunshine.jpg', 'فرابية', 'Vanilla - Choclate - Caramel - Nutt', [['S', 55], ['M', '-']]],
+        ['ice coffe.jpeg', 'ايس كوفى', 'Ice Coffe', [['S', 40], ['M', '-']]],
+	['ice am.jpg', 'ايس امريكان', 'Ice American', [['S', 40], ['M', '-']]],
+	['ice ch.jpg', 'ايس شوكليت', 'Ice Choclate', [['S', 40], ['M', '-']]],
+	['ice latte.jpg', 'ايس لاتيه', 'Ice Latte', [['S', 40], ['M', '-']]],
+	['ice cap.jpeg', 'ايس كابتشينو', 'Ice Cappuccino', [['S', 55], ['M', '-']]],
+	['ice mocha.jpg', 'ايس موكا', 'Ice Mocha', [['S', 55], ['M', '-']]],
+	['ice tof.jpg', 'ايس كوفى توفى', 'Ice Coffe Tofy', [['S', 60], ['M', '-']]],
+	['ice esp.jpeg', 'اسبرسو بريو', 'Espresso Borio', [['S', 50], ['M', '-']]],
+	['frab.jpg', 'فرابتشينو', 'Frappuccino', [['S', 50], ['M', '-']]],
+	['frab c.jpeg', 'فرابتشينو كراميل', 'Frappuccino Caramel', [['S', 60], ['M', '-']]],
+	['frabie.jpg', 'فرابية', 'Vanilla - Choclate - Caramel - Nutt', [['S', 55], ['M', '-']]],
 	['ice cream.jpg', 'بوله ايس كريم', 'Ice Cream', [['S', 15], ['M', 30]]],
     ];
     const rowYogurt = [
