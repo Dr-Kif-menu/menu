@@ -34,7 +34,7 @@ function showMenu(category) {
         ['coffee.jpg', 'قهوة سبيشيال', 'Light Turkish Coffee', [['S', 20], ['M', 30]]],
     ];
     const rowHotDrinks = [
-        ['Tea.jpg', 'شاى', 'Tea', [['S', 19], ['M', '-']]],
+        ['tea.jpg', 'شاى', 'Tea', [['S', 19], ['M', '-']]],
         ['tea milk flavor.jpg', 'شاى نكهات', 'Tea with Flavour', [['S', 20], ['M', '-']]],
 	['tea milk.jpg', 'شاى حليب', 'Tea with Milk', [['S', 30], ['M', '-']]],
         ['tea milk flavor.jpg', 'شاى حليب نكهات', 'Tea with Milk & Flavour', [['S', 30], ['M', '-']]],
